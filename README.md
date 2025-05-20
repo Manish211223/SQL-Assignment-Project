@@ -1,2 +1,0 @@
-# SQL-Assignment-Project
-
